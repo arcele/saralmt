@@ -1,0 +1,1 @@
+../jryky/hits.php
